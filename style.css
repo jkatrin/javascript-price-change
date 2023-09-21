@@ -1,0 +1,20 @@
+body {
+    font: normal 18px Arial;
+    text-align: center;
+    padding: 50px;
+}
+input {
+    font: normal 18px Arial;
+    width: 150px;
+    height: 40px;
+}
+footer {
+    text-align: center;
+    font-style: italic;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#res {
+    color: green;
+}
